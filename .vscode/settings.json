@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "principal/*.jar",
+        "Conversor/lib/gson-2.11.0.jar"
+    ]
+}
