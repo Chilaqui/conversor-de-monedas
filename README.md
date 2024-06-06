@@ -19,4 +19,7 @@
   <li>10. Salir................</li>
 </ul>
 </h3>
+<p aling="left">
+  <a href="https://github.com/Chilaqui"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=EBF722&random=false&width=435&lines=¿Como+Funciona+La+Aplicacion?+" alt="Typing SVG" /></a>
+</p>
 
