@@ -1,2 +1,4 @@
 # conversor-de-monedas
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&background=682BFF00&random=false&width=435&lines=Este+es+el+Challenge+;Conversor+de+Monedas+de+Alura+Latam)](https://git.io/typing-svg)
+<h1 align = "center">
+<a href="https://github.com/Chilaqui"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=FFFF00&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=;Este+es+el;+reto+del+Challenge+;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
+</h1>
