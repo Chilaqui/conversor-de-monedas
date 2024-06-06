@@ -32,8 +32,10 @@
  <li>El usuario tiene la opción de realizar más conversiones o salir de la aplicación.</li>
 </p>
 
+https://github.com/Chilaqui/conversor-de-monedas/assets/109807478/3808103a-a35e-4ca5-9849-968f3fb3bf34
 
 
-https://github.com/Chilaqui/conversor-de-monedas/assets/109807478/4fa674cd-9d76-41d8-aafb-c1e227352282
+
+
 
 
