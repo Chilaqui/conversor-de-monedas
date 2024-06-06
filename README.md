@@ -23,7 +23,7 @@
   
 <a href="https://github.com/Chilaqui"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=EBF722&random=false&width=435&lines=¿Como+Funciona+La+Aplicacion?+" alt="Typing SVG" /></a>
   
-<h1 style = color: orange; >Descripción:</h1>
+<h1 color🟠; >Descripción:</h1>
 La aplicación "Conversor de Monedas" permite a los usuarios convertir entre diferentes tipos de monedas extranjeras. Utiliza una API externa para obtener las tasas de cambio en tiempo real y proporciona una interfaz intuitiva para que los usuarios seleccionen las monedas de origen y destino. La aplicación presenta un menú interactivo donde los usuarios pueden elegir la conversión deseada, y luego muestra el resultado de la conversión en la pantalla. Además, ofrece la opción de realizar conversiones adicionales o salir de la aplicación. La integración con la API se realiza mediante solicitudes HTTP utilizando la clase HttpClient, y las respuestas JSON se manejan utilizando la biblioteca Gson para serialización/deserialización.
 
 <h1>Funcionamiento:</h1>
