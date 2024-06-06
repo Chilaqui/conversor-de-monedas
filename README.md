@@ -31,4 +31,5 @@
  <li>La aplicación muestra el resultado de la conversión al usuario.</li>
  <li>El usuario tiene la opción de realizar más conversiones o salir de la aplicación.</li>
 </p>
+https://github.com/Chilaqui/conversor-de-monedas/assets/109807478/fb271385-b97c-4665-9364-7b9b2af0cd20
 
